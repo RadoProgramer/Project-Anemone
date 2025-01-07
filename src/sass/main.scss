@@ -4,4 +4,5 @@
  */
 
 // Style dla pliku z przykładem HTML fragmentu
-@import './example';
+// @import './example';
+@import 'example'; // Parcel domyślnie szuka plików SCSS
